@@ -7,7 +7,7 @@
 
 <hr>
 
-<p>Link da apresentação: </p>
+<p>Link da apresentação: https://drive.google.com/file/d/1o-RdUierX3aGOSwGlNccH7n2TnneA4yi/view?usp=sharing</p>
 <p>A apresentação se encontra na pasta "Trabalho".</p>
 <p>A resolução da prova se encontra na pasta "Prova". </p>
 
